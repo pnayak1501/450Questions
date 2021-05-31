@@ -4,7 +4,7 @@ vector<int> levelOrder(Node* node)
     {
       //Your code here
       queue<Node*> q;
-      vector<int> ans;s
+      vector<int> ans;
       q.push(node);
       q.push(NULL);
       Node* c;
