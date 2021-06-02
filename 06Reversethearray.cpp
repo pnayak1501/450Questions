@@ -1,4 +1,4 @@
-https://practice.geeksforgeeks.org/problems/reverse-a-string/1
+// https://practice.geeksforgeeks.org/problems/reverse-a-string/1
 
 string reverseWord(string str){
   //Your code here
